@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-[![Aradhy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aradhya89&theme=github&days=40)]
+![Aradhy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aradhya89&theme=github&days=40)
+
