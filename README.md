@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-https://github-readme-activity-graph.vercel.app/graph?username=Aradhya89&theme=github&days=4
 
-
-[![Aradhya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aradhya89&theme=github&days=40)](https://github.com/aradhya89.github.io)
+[![Aradhya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aradhya89&theme=github&days=30)](https://github.com/aradhya89.github.io)
 
