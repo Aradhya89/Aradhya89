@@ -1,11 +1,8 @@
 # 👋 Hi, I'm Aradhya Gupta
-
-B.Tech Student | 💻 Python Developer | 🚀 Tech Explorer  
-Passionate about learning automation, backend systems, and problem solving.
-
-
----
-
+<h4>
+B.Tech Student | 💻 Python Developer | AI & ML Learner <br>
+Passionate about learning automation and problem solving.
+</h4>
 
 ## 🧠 About Me
 
@@ -17,12 +14,13 @@ Passionate about learning automation, backend systems, and problem solving.
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-- Python 🐍
-- C
+- Python 
+- C & C++
 
 ### ⚙️ Tools & Technologies
 - Git & GitHub
 - VS Code
+- MySQL
 
 ---
 
@@ -33,25 +31,13 @@ Passionate about learning automation, backend systems, and problem solving.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aradhya89)
 
 
----
-
-## 🎯 Goals for 2026
-
-- ✔ Master Data Structures
-- ✔ Build 5 Real-World Projects
-- ✔ Learn Advanced Backend Development
-- ✔ Contribute to Open Source
-
-
-
-
 
 ---
 <br>
 
 ## 📫 Connect With Me
 
-- 📧 Email: aradhyagupta673@gmail.com
+- 📧 Email: aradhyagupta637@gmail.com
 <br>
 
 [![Aradhya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aradhya89&theme=github&days=30)](https://github.com/aradhya89.github.io)
